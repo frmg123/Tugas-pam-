@@ -1,7 +1,7 @@
 # Tugas PAM 4
 
-# Nama  : Ferawati Manurung
-# Nim   : 120140196
+* Nama  : Ferawati Manurung
+* Nim   : 120140196
 
 
 
